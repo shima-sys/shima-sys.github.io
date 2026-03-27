@@ -1,0 +1,48 @@
+@font-face {
+    font-family: omori;
+    src: url(OMORI_GAME2.ttf); 
+}
+
+.me{
+    font-family: omori;
+    max-width: 600px;
+    margin: auto;
+    
+}
+
+.kris{
+    text-align: center;
+    padding-top: 80;
+}
+
+.pic{
+    border-radius: 50%;
+    height: 200;
+    width: 200;
+}
+
+p {
+    font-size: 25;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+
+}
+
+.gifdog{
+    width: 180;
+}
+
+
+body{
+    background-color: silver;
+}
+
+.links{
+    text-align: center;
+    padding: 20;
+}
+
+a{
+    margin: 10;
+}
